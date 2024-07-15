@@ -48,7 +48,7 @@ class Virus:
         self.label2.place(x=30, y=290, width=1300, height=70)
 
         self.boton.config(bg='black', command=self.destruir)
-        self.boton.place(x=609, y=229, width=1, height=1)
+        self.boton.place(x=609, y=229, width=2, height=2)
 
         self.root.mainloop()
 
@@ -57,7 +57,7 @@ class Virus:
 
         self.root.withdraw()
         keyboard.unblock_key('windows izquierda')
-        time.sleep(0.5)
+        time.sleep(3)
         self.root.deiconify()
         keyboard.block_key('windows izquierda')
 
