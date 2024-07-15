@@ -5,7 +5,7 @@ import keyboard
 import time
 
 
-# luego se hac  una lista con los nombres de todas las teclas para luego poder
+# luego se hace  una lista con los nombres de todas las teclas para luego poder
 # bloquear las pulsaciones de todas las teclas
 
 
