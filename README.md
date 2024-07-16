@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 -) El funcionamiento y la lógica de este programa son sencillos. Lo que hace es bloquear todas las teclas del teclado para que la persona que lo ejecuta crea que se ha roto el ordenador. 
 En realidad, no es un programa malicioso; lo hice por diversión y para aprender un poco de lógica de programación. Sin embargo, es importante tener cuidado, ya que si se ejecuta el programa,
 no se podrá salir de él a menos que se apague el ordenador.
@@ -22,6 +21,6 @@ Este programa lo hice con fines educativos, y no me hago responsable de cualquie
 
    I did this program with educational fines and I am not responsible for any damage.
 
->>>>>>> b1761af84f0762d0d8338b2053bd99f705a2bfb2
+
 
 ![vista previa del programa](assets/preview_img.png)
