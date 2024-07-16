@@ -1,11 +1,11 @@
--) El funcionamiento y la logica de este programa es sencillo, lo que se hace es bloquear todas las teclas del teclado para que la persona que lo ejecuta crea que se 
-   a roto el ordenador, en realidad no es un programa malicioso, esto lo hice por diverción y aprender un poco de logica de programacion, de igual manera es 
-   importante tener cuidado ya que si se ejecuta el porgrama no se podra salir de el a menos que se apague el ordenador. 
+-) El funcionamiento y la lógica de este programa son sencillos. Lo que hace es bloquear todas las teclas del teclado para que la persona que lo ejecuta crea que se ha roto el ordenador. 
+En realidad, no es un programa malicioso; lo hice por diversión y para aprender un poco de lógica de programación. Sin embargo, es importante tener cuidado, ya que si se ejecuta el programa,
+no se podrá salir de él a menos que se apague el ordenador.
 
-   En el codigo agregue un widget que cuando se ejecuta el programa no se ve, es un boton que si se oprime se cierra la pantalla del ordenador y la tecla windows se 
-   desbloquea, si logra oprimirlo puede salir del programa en un lapso de tiempo minimo antes de que se vuelva a abrir la pantalla del programa.
+En el código, agregué un widget que, cuando se ejecuta el programa, no es visible. Es un botón que, si se oprime, cierra la pantalla del ordenador y desbloquea la tecla Windows.
+Si logra oprimirlo, puede salir del programa en un lapso de tiempo mínimo antes de que se vuelva a abrir la pantalla del programa.
 
-  este programa lo hice con fines educativos y no me hago responsable de cualquier daño.
+Este programa lo hice con fines educativos, y no me hago responsable de cualquier daño.
 
 
 
