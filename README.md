@@ -27,4 +27,9 @@ I did this program with educational fines and I am not responsible for any damag
 ## Instalación
 
 Para tener el archivo ejecutable se debe clonar el repositorio y con pyinstaller se empaqueta.
+
+To have the executable file you must clone the repository and with pyinstaller it is packaged.
+
+## imagenes
+
 ![vista previa del programa](assets/preview_img.png)
